@@ -1,1 +1,1 @@
-## Experiment name
+## Solvent viscous forces on a polyatomic molecule
