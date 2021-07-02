@@ -2,7 +2,7 @@ Ion-Dipole Forces An ion-dipole force is an attractive force that results from t
 
 **Dipole-Dipole Interactions**
 
-DipoleÅ|dipole interactions are electrostatic interactions of permanent dipoles in molecules. These interactions tend to align the molecules to increase the attraction (reducing potential energy). An example of a dipoleÅ|dipole interaction can be seen in hydrogen chloride (HCl): The positive end of a polar molecule will attract the negative end of the other molecule and cause them to be arranged in a specific arrangement. Polar molecules have a net attraction between them. For example HCl and chloroform (CHCl3).  
+Dipole-dipole interactions are electrostatic interactions of permanent dipoles in molecules. These interactions tend to align the molecules to increase the attraction (reducing potential energy). An example of a dipole-dipole interaction can be seen in hydrogen chloride (HCl): The positive end of a polar molecule will attract the negative end of the other molecule and cause them to be arranged in a specific arrangement. Polar molecules have a net attraction between them. For example HCl and chloroform (CHCl<sub>3</sub>).  
 
 <img src="images/Dipole.png">  
 
@@ -10,7 +10,7 @@ DipoleÅ|dipole interactions are electrostatic interactions of permanent dipoles 
 
 London Dispersion forces:  
 
-London dispersion forces (LDF, also known as dispersion forces, London forces, instantaneous dipoleÅ|induced dipole forces) is a type of force acting between atoms and molecules.[1] They are part of the van der Waals forces. The LDF is named after the German-American physicist Fritz London.
+London dispersion forces (LDF, also known as dispersion forces, London forces, instantaneous dipole-induced dipole forces) is a type of force acting between atoms and molecules.[1] They are part of the van der Waals forces. The LDF is named after the German-American physicist Fritz London.
 
 The LDF is a weak intermolecular force arising from quantum induced instantaneous polarization multipoles in molecules. They can therefore act between molecules without permanent multipole moments. London forces are exhibited by non-polar molecules because of the correlated movements of the electrons in interacting molecules. Because the electrons from different molecules start "feeling" and avoiding each other, electron density in a molecule becomes redistributed in proximity to another molecule.
 
