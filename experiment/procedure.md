@@ -1,5 +1,5 @@
-To perform this experiment there are certain parameters to be initialized and the procedure detailed here can be followed.
-Select the molecule on which experiment is to be performed.  
+To perform this experiment there are certain parameters to be initialized and the procedure detailed here can be followed.  
+Select the molecule on which experiment is to be performed.    
 
 <img src="images/Screenshot.png">  
 
