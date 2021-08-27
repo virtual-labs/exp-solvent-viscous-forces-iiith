@@ -1,0 +1,22 @@
+[
+{"question":"1. The magnitude of the harmonic force increases linearly with the internuclear separation of a diatomic molecule",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"},
+
+{"question":"2. The curvature of the internuclear potential energy is related to the spring constant",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"},
+
+{"question":"3. The potential energy at large separation's is essentially the bond energy",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"b"}
+]
