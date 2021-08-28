@@ -4,7 +4,7 @@ Ion-Dipole Forces An ion-dipole force is an attractive force that results from t
 
 Dipole-dipole interactions are electrostatic interactions of permanent dipoles in molecules. These interactions tend to align the molecules to increase the attraction (reducing potential energy). An example of a dipole-dipole interaction can be seen in hydrogen chloride (HCl): The positive end of a polar molecule will attract the negative end of the other molecule and cause them to be arranged in a specific arrangement. Polar molecules have a net attraction between them. For example HCl and chloroform (CHCl<sub>3</sub>).  
 
-<img src="images/Dipole.png">  
+<img src="images/Dipole.png" width="250" height="200">  
 
 **Dipole-induced Dipole Interactions:**  
 

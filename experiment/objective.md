@@ -1,1 +1,1 @@
-To determine the solvent viscous forces on polyatomic molecule.
+- To determine the solvent viscous forces on polyatomic molecule.
